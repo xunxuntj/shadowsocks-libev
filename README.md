@@ -99,7 +99,7 @@ Using official repository for Debian unstable:
 
 ```bash
 sudo apt update
-sudo apt install shadowsocks-libev
+sudo apt-get install shadowsocks-libev
 ```
 
 **NOTE**: You may need to uninstall any unofficial debian packages for `shadowsocks-libev`
